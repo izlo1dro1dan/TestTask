@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb10e7be-8d84-4f51-b21f-d9655bf127a8" name="Default Changelist" comment="" />
+    <list default="true" id="cb10e7be-8d84-4f51-b21f-d9655bf127a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/testTask.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/testTask.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testTask.iws" beforeDir="false" afterPath="$PROJECT_DIR$/testTask.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -88,6 +94,7 @@
       <profile-state />
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -303,7 +310,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579941653017</updated>
       <workItem from="1579941654629" duration="4503000" />
-      <workItem from="1579950718813" duration="34128000" />
+      <workItem from="1579950718813" duration="34458000" />
     </task>
     <servers />
   </component>
